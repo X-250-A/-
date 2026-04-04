@@ -3,7 +3,7 @@
 **该软件致力于解决windows用户无法一键清屏的痛点**
 
 # 一键清屏 (One-click Clear Screen)
-
+![language Python](https://img.shields.io/badge/language-Python-blue.svg)
 ## 简介
 
 这是一个为 Windows 用户设计的工具，旨在实现一键关闭任务栏中所有运行的软件进程。它解决了 Windows 系统未提供一键关闭所有软件功能的痛点。
